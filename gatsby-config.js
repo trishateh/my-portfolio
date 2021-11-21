@@ -5,7 +5,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 module.exports = {
   siteMetadata: {
     siteTitle: `My Portfolio`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `My Portfolio`,
     siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
     siteUrl: `https://www.trishateh.com/`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
